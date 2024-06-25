@@ -50,6 +50,8 @@ For succinctness, we can write the above operations as:
 
 test input Θ Ω Ψ Τ
 
+The trusted setup now consists of the vectors $\mathbf{Θ}$, $\mathbf{Ω}$, $\mathbf{Ψ}$, and $\mathbf{Τ}$. A prover with a satisfying witness vector $\mathbf{a}$ can compute:
+
 The trusted setup now consists of the vectors $\mathbf{\Theta}$, $\mathbf{\Omega}$, $\mathbf{\Psi}$, and $\mathbf{\Tau}$. A prover with a satisfying witness vector $\mathbf{a}$ can compute:
 
 $$
